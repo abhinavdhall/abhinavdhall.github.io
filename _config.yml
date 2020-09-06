@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Abhinav Dhall"
 title_separator          : "-"
-name                     : &name "Abhinav Dhall"
+name                     : &name "Abhinav  Dhall"
 description              : &description "personal description"
 url                      : https://abhinavdhall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
